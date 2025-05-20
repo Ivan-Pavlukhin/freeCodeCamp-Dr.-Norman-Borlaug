@@ -1,0 +1,56 @@
+main {
+  padding: 0 20px;
+}
+
+#img-div {
+  padding: 20px 40px 60px;
+  background-color: white;
+}
+
+#image {
+  display: block;
+  max-width: 100%;
+}
+
+#img-caption {
+  text-align: center;
+  margin-top: 10px;
+}
+
+#tribute-link {
+  display: block;
+  text-align: center;
+}
+
+.container {
+  max-width: 1024px;
+  margin: 10px auto;
+  padding: 40px;
+  background-color: rgba(195, 192, 192, 0.762);
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.section-bottom {
+  padding-left: 20px;
+}
+
+.list-container {
+  max-width: 600px;
+  margin: 0 auto 30px;
+}
+
+.list {
+  margin-bottom: 40px;
+}
+
+.list-item {
+  margin-bottom: 20px;
+}
